@@ -1,0 +1,9 @@
+### 代码结构
+-testcases  主要放测试用例
+-business   主要存在业务代码
+-report 测试报告
+"# AutoTestcase"  
+"# AutoTestcase"  
+"# AutoTestcase"  
+"# AutoTestcase"  
+"# AutoTestcase"  
